@@ -14,7 +14,8 @@
 
 
 ## Java
-[阿里巴巴Java开发手册](./Java/阿里巴巴Java开发手册/Java_1512024443940.pdf)
+[阿里巴巴Java开发手册](./Java/阿里巴巴Java开发手册/Java_1512024443940.pdf)  
+[Effective java 中文版（第2版）](https://github.com/nesger/E-book/blob/master/Java/effective-java-2/effective-java-2.pdf)
 
 
 ## Contributors:
